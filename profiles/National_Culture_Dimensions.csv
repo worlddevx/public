@@ -1,4 +1,4 @@
-,Topic,Indicator ID,Indicator Name,Axis,Scale,Aggregate,Cluster,Univariate,Remove
+,Topic,Indicator ID,Indicator Name,Axis,Scale,Aggregate,Cluster,Univariate,Action
 0,NATIONAL CULTURE,PDI,Power Distance Index (PDI),x,linear,mean,Yes,Yes,Remove
 1,NATIONAL CULTURE,IDV,Individualism versus Collectivism (IDV),y,linear,mean,Yes,Yes,Remove
 2,NATIONAL CULTURE,MAS,Masculinity versus Femininity (MAS),z,linear,mean,Yes,Yes,Remove
