@@ -1,0 +1,5 @@
+,Topic,Indicator ID,Indicator Name,Axis,Scale,Aggregate,Cluster,Univariate,Action
+0,Economy & Growth,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",x,linear,mean,Yes,No,Remove
+1,Health,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),y,linear,mean,Yes,Yes,Remove
+2,Health,SP.POP.65UP.TO,"Population ages 65 and above, total",,linear,mean,Yes,Yes,Remove
+3,Health,SP.POP.TOTL,"Population, total",bubble,linear,sum,Yes,Yes,Remove
