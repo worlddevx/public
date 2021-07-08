@@ -1,5 +1,5 @@
-,Topic,Indicator ID,Indicator Name,Axis,Scale,Aggregate,Cluster,Action
-0,Economy & Growth,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",x,linear,mean,Yes,Remove
-1,Health,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",y,linear,mean,Yes,Remove
-2,Health,SH.STA.SUIC.P5,"Suicide mortality rate (per 100,000 population)",z,linear,mean,Yes,Remove
-3,Health,SP.POP.TOTL,"Population, total",bubble,linear,sum,Yes,Remove
+,Topic,Indicator ID,Indicator Name,Axis,Scale,Aggregate,Action
+0,Economy & Growth,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",x,linear,mean,Remove
+1,Health,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",y,linear,mean,Remove
+2,Health,SH.STA.SUIC.P5,"Suicide mortality rate (per 100,000 population)",z,linear,mean,Remove
+3,Health,SP.POP.TOTL,"Population, total",bubble,linear,sum,Remove
