@@ -1,7 +1,7 @@
-,Topic,Indicator ID,Indicator Name,Axis,Scale,Aggregate,Cluster,Action
-0,NATIONAL CULTURE,PDI,Power Distance Index (PDI),x,linear,mean,Yes,Remove
-1,NATIONAL CULTURE,IDV,Individualism versus Collectivism (IDV),y,linear,mean,Yes,Remove
-2,NATIONAL CULTURE,MAS,Masculinity versus Femininity (MAS),z,linear,mean,Yes,Remove
-3,NATIONAL CULTURE,UAI,Uncertainty Avoidance Index (UAI),bubble,linear,mean,Yes,Remove
-4,NATIONAL CULTURE,LTO,Long-Term Orientation versus Short-Term (LTO),,linear,mean,Yes,Remove
-5,NATIONAL CULTURE,IVR,Indulgence versus Restraint (IVR),,linear,mean,Yes,Remove
+,Topic,Indicator ID,Indicator Name,Axis,Scale,Aggregate,Action
+0,NATIONAL CULTURE,PDI,Power Distance Index (PDI),x,linear,mean,Remove
+1,NATIONAL CULTURE,IDV,Individualism versus Collectivism (IDV),y,linear,mean,Remove
+2,NATIONAL CULTURE,MAS,Masculinity versus Femininity (MAS),z,linear,mean,Remove
+3,NATIONAL CULTURE,UAI,Uncertainty Avoidance Index (UAI),bubble,linear,mean,Remove
+4,NATIONAL CULTURE,LTO,Long-Term Orientation versus Short-Term (LTO),,linear,mean,Remove
+5,NATIONAL CULTURE,IVR,Indulgence versus Restraint (IVR),,linear,mean,Remove
