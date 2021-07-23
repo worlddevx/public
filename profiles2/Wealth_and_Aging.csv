@@ -1,4 +1,4 @@
-,Topic,Indicator ID,Indicator Name,
+,Topic,Indicator ID,Indicator Name,Action
 0,Economy & Growth,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)"n,Remove
 1,Health,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),Remove
 2,Health,SP.POP.65UP.TO,"Population ages 65 and above, total",Remove
