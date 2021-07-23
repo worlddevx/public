@@ -1,4 +1,4 @@
 PROFILE NAME
-Health_and_Wealth
-Aging_and_Wealth
+Wealth_and_Health
+Wealth_and_Aging
 National_Culture_Dimensions
