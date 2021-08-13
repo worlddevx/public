@@ -1,0 +1,5 @@
+,Topic,Indicator ID,Indicator Name,Action
+0,Economy & Growth,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",Remove
+1,Health,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",Remove
+2,Health,SH.STA.SUIC.P5,"Suicide mortality rate (per 100,000 population)",Remove
+3,Health,SP.POP.TOTL,"Population, total",Remove

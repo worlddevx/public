@@ -1,1 +1,1 @@
-Store sample indicator profiles.
+Second Edition
